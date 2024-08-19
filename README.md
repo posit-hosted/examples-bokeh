@@ -16,6 +16,9 @@ This example Bokeh application visualizes sine waves based on offset, amplitude,
 * Jupyter Notebooks
 * R Markdown
 
+## Click image and publish to Connect Cloud
+[<img src="https://github.com/user-attachments/assets/7f3c9a5a-66f7-4d05-a207-88c9770875fb">](https://connect.posit.cloud/publish?contentType=bokeh&sourceRepositoryURL=https%3A%2F%2Fgithub.com%2Fposit-hosted%2Fexamples-bokeh&sourceRef=main&sourceRefType=branch&primaryFile=app.py&pythonVersion=3.11)
+
 Create a [free account](https://connect.posit.cloud/), visit the [documentation](https://docs.posit.co/connect-cloud/), and join the [community](https://forum.posit.co/c/posit-professional-hosted/posit-connect-cloud/67). 
 
 
